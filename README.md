@@ -1,1 +1,1 @@
-# gettingstartedjs1
+# Começando o projetinho sagaz
